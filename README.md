@@ -2,7 +2,7 @@
 
 # Hi, I'm Tony 👋
 
-- 🔭 Currently working on all things C#
+- 🔭 Currently working on FrontEnd and BackEnd (mostly C#)
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 💬 Ask and help me about all things about C#
